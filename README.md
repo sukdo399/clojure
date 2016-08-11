@@ -8,8 +8,10 @@ TEST 2
 TEST 3
 
 branch: issue1
-
 branch: issue2
+branch: issue3
+
+amend test
 
 reset test
 
