@@ -9,6 +9,8 @@ TEST 3
 
 branch: issue1
 
+branch: issue2
+
 ## Usage
 
 FIXME
