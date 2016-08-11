@@ -11,6 +11,8 @@ branch: issue1
 branch: issue2
 branch: issue3
 
+amend test
+
 ## Usage
 
 FIXME
