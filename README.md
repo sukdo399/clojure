@@ -11,6 +11,8 @@ branch: issue1
 
 branch: issue2
 
+reset test
+
 ## Usage
 
 FIXME
