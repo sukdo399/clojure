@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eed293c0-bfc0-4c66-a575-60fcdf1d755a" name="Default" comment="" />
+    <ignored path="test.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="test" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="core.clj" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/core.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="854" column="0" selection-start-line="854" selection-start-column="0" selection-end-line="854" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="core.clj" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/clojure/clojure/1.8.0/clojure-1.8.0.jar!/clojure/core.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="39042">
+              <caret line="2169" column="6" selection-start-line="2169" selection-start-column="6" selection-end-line="2169" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/test.kt" />
+        <option value="$PROJECT_DIR$/src/test/core.clj" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1855" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Leiningen: org.clojure/clojure:1.8.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clojure-1.8.0.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/project.clj" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="ReplState" timestamp="1470883199790">{:repl-history {:ide [], :local [&quot;(for [animal [:mouse :duck :lory]] (str (name animal)))&quot; &quot;\n(for [animal [:mouse :duck :lory]\n      color [:red :blue]]\n  (str (name color) \&quot;+\&quot; (name animal)))\n&quot; &quot;(for [animal [:mouse :duck :lory]\n      color [:red :blue]\n      :let [animal-str (str \&quot;animal-\&quot; (name animal))\n            color-str (str \&quot;color-\&quot; (name color))\n            display-str (str animal-str \&quot;-\&quot; color-str)]]\n  display-str)&quot; &quot;(for [animal [:mouse :duck :lory]\n      color [:red :blue]\n      :let [animal-str (str \&quot;animal-\&quot; (name animal))\n            color-str (str \&quot;color-\&quot; (name color))\n            display-str (str animal-str \&quot;-\&quot; color-str)]\n      :when (= color :blue)]\n  display-str)&quot; &quot;(flatten [[:duck [:mouse] [[:lory]]]])&quot; &quot;(vec '(1 2 3))&quot; &quot;(into [] '(1 2 3))&quot; &quot;(sorted-map :b 2 :a 1 :z 3)&quot; &quot;(into (sorted-map) {:b 2 :c 3 :a 1})&quot; &quot;(into {} [[:a 1] [:b 1] [:c 3]])&quot; &quot;(into [] {:a 1 :b 2 :c 3})&quot; &quot;(partitition 3 (range 10))&quot; &quot;(partitition 3 [1 2 3 4 5 6 7 8 9 10])&quot; &quot;(partition 3 [1 2 3 4 5 6 7 8 9 10])&quot; &quot;(partition-all 3 [1 2 3 4 5 6 7 8 9 10])&quot; &quot;(partition-by #(= 6 %) [1 2 3 4 5 6 7 8 9 10])&quot; &quot;(partition 6 [1 2 3 4 5 6 7 8 9 10])&quot; &quot;(partition false [1 2 3 4 5 6 7 8 9 10])&quot; &quot;(partition 0 [1 2 3 4 5 6 7 8 9 10])&quot; &quot;(partition 1 [1 2 3 4 5 6 7 8 9 10])&quot; &quot;(= 6 1)&quot; &quot;who-atom&quot; &quot;(reset! who-atom :chrysalis)&quot; &quot;(def who-atom (atom :caterpillar))&quot; &quot;(defn change [state]\n  (case state\n    :caterpillar :chrysalis\n    :chrysalis :butterfly\n    :butterfly))&quot; &quot;@who-atom&quot; &quot;(swap! who-atom change)&quot; &quot;(dotimes [_ 5] (swap! counter inc))&quot; &quot;(let [n 5]\n  (future (dotimes [_ n] (swap! counter inc)))\n  (future (dotimes [_ n] (swap! counter inc)))\n  (future (dotimes [_ n] (swap! counter inc))))\n\n&quot; &quot;(defn inc-print [val]\n  (println val)\n  (inc val))\n\n(swap! counter inc-print)&quot; &quot;(def counter (atom 0))&quot; &quot;(let [n 5]\n  (future (dotimes [_ n] (swap! counter inc-print)))\n  (future (dotimes [_ n] (swap! counter inc-print)))\n  (future (dotimes [_ n] (swap! counter inc-print))))&quot; &quot;@counter&quot; &quot;(def alice-height (ref 3))\n(def right-hand-bites (ref 10))\n\n(defn eat-from-right-hand []\n  (when (pos? @right-hand-bites)\n    (alter right-hand-bites dec)\n    (alter alice-height #(+ % 24))))\n\n&quot; &quot;(eat-from-right-hand)&quot; &quot;(dosync (eat-from-right-hand))&quot; &quot;(def alice-height (ref 3))\n(def right-hand-bites (ref 10))\n\n(defn eat-from-right-hand []\n  (dosync (when (pos? @right-hand-bites)\n            (alter right-hand-bites dec)\n            (alter alice-height #(+ % 24)))))\n\n(let [n 3]\n  (future (dotimes [_ n] (eat-from-right-hand)))\n  (future (dotimes [_ n] (eat-from-right-hand)))\n  (future (dotimes [_ n] (eat-from-right-hand))))\n\n@alice-height\n@right-hand-bites&quot; &quot;(def alice-height (ref 3))\n(def right-hand-bites (ref 10))\n\n(defn eat-from-right-hand []\n  (dosync (when (pos? @right-hand-bites)\n            (alter right-hand-bites dec)\n            (alter alice-height #(+ % 24)))))\n\n(let [n 5]\n  (future (dotimes [_ n] (eat-from-right-hand)))\n  (future (dotimes [_ n] (eat-from-right-hand)))\n  (future (dotimes [_ n] (eat-from-right-hand))))\n\n@alice-height\n@right-hand-bites\n&quot; &quot;(def alice-height (ref 3))\n(def right-hand-bites (ref 10))\n\n(defn eat-from-right-hand []\n  (dosync (when (pos? @right-hand-bites)\n            (alter right-hand-bites dec)\n            (alter alice-height #(+ % 24)))))\n\n(let [n 15]\n  (future (dotimes [_ n] (eat-from-right-hand)))\n  (future (dotimes [_ n] (eat-from-right-hand)))\n  (future (dotimes [_ n] (eat-from-right-hand))))\n\n@alice-height\n@right-hand-bites\n&quot; &quot;(def alice-height (ref 3))\n(def right-hand-bites (ref 10))\n&quot; &quot;@alice-height&quot; &quot;@right-hand-bites&quot; &quot;(def alice-height (ref 3))\n(def right-hand-bites (ref 10))\n\n(defn eat-from-right-hand []\n  (dosync (when (pos? @right-hand-bites)\n            (commute right-hand-bites dec)\n            (commute alice-height #(+ % 24)))))\n\n(let [n 2]\n  (future (dotimes [_ n] (eat-from-right-hand)))\n  (future (dotimes [_ n] (eat-from-right-hand)))\n  (futrue (dotimes [_ n] (eat-from-right-hand))))\n\n@alice-height\n@right-hand-bites\n&quot; &quot;(def alice-height (ref 3))\n(def right-hand-bites (ref 10))\n\n(defn eat-from-right-hand []\n  (dosync (when (pos? @right-hand-bites)\n            (commute right-hand-bites dec)\n            (commute alice-height #(+ % 24)))))\n\n(let [n 2]\n  (future (dotimes [_ n] (eat-from-right-hand)))\n  (future (dotimes [_ n] (eat-from-right-hand)))\n  (future (dotimes [_ n] (eat-from-right-hand))))\n\n@alice-height\n@right-hand-bites&quot; &quot;(def x (ref 1))\n(def y (ref 1))\n\n(defn new-values []\n  (dosync\n    (alter x inc)\n    (ref-set y (+ 2 @x))))\n\n(let [n 2]\n  (future (dotimes [_ n] (new-values)))\n  (future (dotimes [_ n] (new-values))))\n\n@x\n@y&quot; &quot;(dotimes [_ 10]\n  (def x (ref 1))\n  (def y (ref 1))\n\n  (defn new-values []\n    (dosync\n      (alter x inc)\n      (ref-set y (+ 2 @x))))\n\n  (let [n 2]\n    (future (dotimes [_ n] (new-values)))\n    (future (dotimes [_ n] (new-values))))\n\n  @x\n  @y\n  )&quot; &quot;\n\n(dotimes [_ 10]\n  (def x (ref 1))\n  (def y (ref 1))\n\n  (defn new-values []\n    (dosync\n      (alter x inc)\n      (ref-set y (+ 2 @x))))\n\n  (let [n 2]\n    (future (dotimes [_ n] (new-values)))\n    (future (dotimes [_ n] (new-values))))\n\n  (println @x)\n  (println @y)\n  )\n&quot; &quot;(def who-agent (agent :caterpillar))&quot; &quot;who-agent&quot; &quot;(def who-agent (agent :caterpillar))\n\n(defn change [state]\n  (case state\n    :caterpillar :chrysalis\n    :chrysalis :butterfly\n    :butterfly))\n\n(send who-agent change)\n\n@who-agent\n&quot; &quot;(send who-agnet change-error)&quot; &quot;(send who-agent change)&quot; &quot;(def who-agent (agent :caterpillar))\n\n(defn change [state]\n  (case state\n    :caterpillar :chrysalis\n    :chrysalis :butterfly\n    :butterfly))\n\n(defn change-error [state]\n  (throw (Exception, \&quot;Boom!\&quot;)))\n\n(send who-agent change-error)\n\n@who-agent\n\n(send-off who-agent change)&quot; &quot;(send-off who-agent change)&quot; &quot;(def who-agent (agent :caterpillar))\n\n(defn change [state]\n  (case state\n    :caterpillar :chrysalis\n    :chrysalis :butterfly\n    :butterfly))\n\n(defn change-error [state]\n  (throw (Exception, \&quot;Boom!\&quot;)))\n\n(send who-agent change-error)\n\n@who-agent&quot; &quot;(agent-errors who-agent)&quot; &quot;(restart-agent who-agent :caterpillar)&quot; &quot;(send who-agent change)\n@who-agent\n&quot; &quot;(set-error-mode! who-agent :continue)\n(defn err-handler-fn [a ex]\n  (println \&quot;error \&quot; ex \&quot; value is \&quot; @a))\n(set-error-handler! who-agent err-handler-fn)\n\n\n(def who-agent (agent :caterpillar))\n\n\n(send who-agent change-error)&quot; &quot;@who-agent&quot; &quot;(class \&quot;caterpillar\&quot;)&quot; &quot;(. \&quot;caterpillar\&quot; toUpperCase)&quot; &quot;(.toUpperCase \&quot;caterpillar\&quot;)&quot; &quot;(.indexOf \&quot;caterpillar\&quot; \&quot;pillar\&quot;)&quot; &quot;(new String \&quot;Hi!!\&quot;)&quot; &quot;(String. \&quot;Hi!!\&quot;)&quot; &quot;(ns caterpillar.network\n  (:import (java.net InetAddress)))&quot; &quot;(InetAddress/getByName \&quot;localhost\&quot;)&quot; &quot;(.getHostName (InetAddress/getByName \&quot;localhost\&quot;))&quot; &quot;(java.net.InetAddress/getByName \&quot;localhost\&quot;)&quot; &quot;\n(def sb (doto (StringBuffer. \&quot;Who \&quot;)\n          (.append \&quot;are \&quot;)\n          (.append \&quot;you?\&quot;)))\n\n(.toString sb)\n\n&quot; &quot;\n(import 'java.util.UUID)\n(UUID/randomUUID)\n&quot; &quot;(defmulti who-are-you class)\n(defmethod who-are-you java.lang.String [input]\n  (str \&quot;String - who are you? \&quot; input))\n(defmethod who-are-you clojure.lang.Keyword [input]\n  (str \&quot;Keyword - who are you? \&quot; input))\n(defmethod who-are-you java.lang.Long [input]\n  (str \&quot;Number - who are you? \&quot; input))&quot; &quot;(defmethod who-are-you :default [input]\n  (str \&quot;I don't know - who are you? \&quot; input))&quot; &quot;\n(who-are-you :alice)\n(who-are-you \&quot;Alice\&quot;)\n(who-are-you 123)\n(who-are-you true)&quot; &quot;(defmulti eat-mushroom (fn [height]\n                         if (&lt; height 3)\n                         :grow\n                         :shrink))\n&quot; &quot;(defmulti eat-mushroom (fn [height]\n                         (if (&lt; height 3)\n                           :grow\n                           :shrink)))&quot; &quot;(defmethod eat-mushroom :grow [_]\n  \&quot;Eat the right side to grow.\&quot;)\n(defmethod eat-mushroom :shrink [_]\n  \&quot;Eat the left side to shrink.\&quot;)\n&quot; &quot;(eat-mushroom 1)\n(eat-mushroom 9)&quot; &quot;(defprotocol BigMushroom\n  (eat-mushroom [this]))\n\n\n(extend-protocol BigMushroom\n  java.lang.String\n  (eat-mushroom [this]\n    (str (.toUpperCase this) \&quot; mmm tasty!\&quot;)))\n&quot; &quot;(eat-mushroom \&quot;Big Mushroom\&quot;)&quot; &quot;(extend-protocol BigMushroom\n  java.lang.String\n  (eat-mushroom [this]\n    (str (.toUpperCase this) \&quot; mmm tasty!\&quot;))\n  clojure.lang.Keyword\n  (eat-mushroom [this]\n    (case this\n      :grow \&quot;Eat the right side!\&quot;\n      :shrink \&quot;Eat the left side!\&quot;))\n  java.lang.Long\n  (eat-mushroom [this]\n    if (&lt; this 3)\n    \&quot;Eat the right side to grow\&quot;\n    \&quot;Eat the left side to shrink\&quot;))&quot; &quot;(extend-protocol BigMushroom\n  java.lang.String\n  (eat-mushroom [this]\n    (str (.toUpperCase this) \&quot; mmm tasty!\&quot;))\n  clojure.lang.Keyword\n  (eat-mushroom [this]\n    (case this\n      :grow \&quot;Eat the right side!\&quot;\n      :shrink \&quot;Eat the left side!\&quot;))\n  java.lang.Long\n  (eat-mushroom [this]\n    (if (&lt; this 3)\n      \&quot;Eat the right side to grow\&quot;\n      \&quot;Eat the left side to shrink\&quot;)))\n&quot; &quot;(defprotocol BigMushroom\n  (eat-mushroom [this]))\n(extend-protocol BigMushroom\n  java.lang.String\n  (eat-mushroom [this]\n    (str (.toUpperCase this) \&quot; mmm tasty!\&quot;))\n  clojure.lang.Keyword\n  (eat-mushroom [this]\n    (case this\n      :grow \&quot;Eat the right side!\&quot;\n      :shrink \&quot;Eat the left side!\&quot;))\n  java.lang.Long\n  (eat-mushroom [this]\n    (if (&lt; this 3)\n      \&quot;Eat the right side to grow\&quot;\n      \&quot;Eat the left side to shrink\&quot;)))\n(eat-mushroom \&quot;Big Mushroom\&quot;)\n(eat-mushroom :grow)\n(eat-mushroom 1)&quot; &quot;(defrecord Mushroom [color height])&quot; &quot;(def regular-mushroom (Mushroom. \&quot;white and blue polka dots\&quot; \&quot;2 inches\&quot;))&quot; &quot;(class regular-mushroom)&quot; &quot;(.-color regular-mushroom)\n(.-height regular-mushroom)&quot; &quot;(defprotocol Edible\n  (bite-right-side [this])\n  (bite-left-side [this]))\n\n(defrecord Wonderlandmushroom [color height]\n  Edible\n  (bite-right-side [this]\n    (str \&quot;The \&quot; color \&quot; bite makes you grow bigger\&quot;))\n  (bite-left-side [this]\n    (str \&quot;The \&quot; color \&quot; bite makes you grow smaller\&quot;)))\n\n&quot; &quot;(Wonderlandmushroom [\&quot;test\&quot; \&quot;3\&quot;])&quot; &quot;(Wonderlandmushroom [\&quot;test\&quot; 3])&quot; &quot;(defprotocol Edible\n  (bite-right-side [this])\n  (bite-left-side [this]))\n\n(defrecord Wonderlandmushroom [color height]\n  Edible\n  (bite-right-side [this]\n    (str \&quot;The \&quot; color \&quot; bite makes you grow bigger\&quot;))\n  (bite-left-side [this]\n    (str \&quot;The \&quot; color \&quot; bite makes you grow smaller\&quot;)))\n\n\n(defrecord RegularMushroom [color height]\n  Edible\n  (bite-right-side [this]\n    (str \&quot;The \&quot; color \&quot; bite tastes bad\&quot;))\n  (bite-left-side [this]\n    (str \&quot;The \&quot; color \&quot; bite tastes bad too\&quot;)))\n\n(def alice-mushroom (Wonderlandmushroom. \&quot;blue dots\&quot; \&quot;3 inches\&quot;))&quot; &quot;(def reg-mushroom (RegularMushroom. \&quot;brown\&quot; \&quot;1 inches\&quot;))&quot; &quot;(bite-right-side alice-mushroom)\n(bite-left-side alice-mushroom)\n\n(bite-right-side reg-mushroom)\n(bite-left-side reg-mushroom)\n\n&quot; &quot;(defprotocol Edible\n  (bite-right-side [this])\n  (bite-left-side [this]))\n\n(deftype WonderlandMushroom []\n  Edible\n  (bite-right-side [this]\n    (str \&quot;The bite makes you grow bigger\&quot;))\n  (bite-left-side [this]\n    (str \&quot;The bite makes you grow smaller\&quot;)))\n\n(deftype RegularMushroom []\n  Edible\n  (bite-right-side [this]\n    (str \&quot;The bite tastes bad\&quot;))\n  (bite-left-side [this]\n    (str \&quot;The bite tastes bad too\&quot;)))\n\n&quot; &quot;(def alice-mushroom (WonderlandMushroom.))\n(def reg-mushroom (RegularMushroom.))\n&quot; &quot;(bite-right-side alice-mushroom)\n(bite-right-side reg-mushroom)&quot; &quot;(bite-right-side {:type \&quot;wonderland\&quot;})\n(bite-left-side {:type \&quot;wonderland\&quot;})\n\n(bite-right-side {:type \&quot;regular\&quot;})\n(bite-left-side {:type \&quot;regular\&quot;})\n\n&quot; &quot;(defn bite-right-side [mushroom]\n  (if (= (:type mushroom) \&quot;wonderland\&quot;)\n    \&quot;The bite makes you grow bigger\&quot;\n    \&quot;The bite tastes bad\&quot;))\n(defn bite-right-side [mushroom]\n  (if (= (:type mushroom) \&quot;wonderland\&quot;)\n    \&quot;The bite makes you grow smaller\&quot;\n    \&quot;The bite tastes bad too\&quot;))\n\n(bite-right-side {:type \&quot;wonderland\&quot;})\n(bite-left-side {:type \&quot;wonderland\&quot;})\n\n(bite-right-side {:type \&quot;regular\&quot;})\n(bite-left-side {:type \&quot;regular\&quot;})\n\n\n\n&quot; &quot;(bite-right-side {:type \&quot;wonderland\&quot;})&quot; &quot;\n(defn bite-right-side [mushroom]\n  (if (= (:type mushroom) \&quot;wonderland\&quot;)\n    \&quot;The bite makes you grow bigger\&quot;\n    \&quot;The bite tastes bad\&quot;))\n(defn bite-left-side [mushroom]\n  (if (= (:type mushroom) \&quot;wonderland\&quot;)\n    \&quot;The bite makes you grow smaller\&quot;\n    \&quot;The bite tastes bad too\&quot;))\n\n(bite-right-side {:type \&quot;wonderland\&quot;})\n(bite-left-side {:type \&quot;wonderland\&quot;})\n\n(bite-right-side {:type \&quot;regular\&quot;})\n(bite-left-side {:type \&quot;regular\&quot;})&quot;], :remote []}}</component>
+  <component name="RunManager" selected="Clojure REPL.REPL for test">
+    <configuration default="false" name="core" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="test" />
+      <setting name="path" value="$PROJECT_DIR$/src/test/core.clj" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$/src/test" />
+      <setting name="repl" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method>
+        <option name="Make" enabled="true" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <method>
+        <option name="Make" enabled="true" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local">
+      <setting name="replType" value="1" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ClojureScriptRunConfiguration" factoryName="Clojure Script">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="" />
+      <setting name="repl" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="test" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="REPL for test" type="ClojureREPL" factoryName="Local">
+      <setting name="replType" value="1" />
+      <module name="test" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Clojure REPL.REPL for test" />
+      <item index="1" class="java.lang.String" itemvalue="Clojure Application.core" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Clojure Application.core" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eed293c0-bfc0-4c66-a575-60fcdf1d755a" name="Default" comment="" />
+      <created>1469576519187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1469576519187</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991913" sideWeight="0.4903357" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="REPL" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50566036" sideWeight="0.5096643" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14932615" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960325" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/clojure/clojure/1.8.0/clojure-1.8.0.jar!/clojure/set.clj</url>
+          <line>130</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/clojure/clojure/1.8.0/clojure-1.8.0.jar!/clojure/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39042">
+          <caret line="2169" column="6" selection-start-line="2169" selection-start-column="6" selection-end-line="2169" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/clojure/clojure/1.8.0/clojure-1.8.0.jar!/clojure/set.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3150">
+          <caret line="175" column="0" selection-start-line="175" selection-start-column="0" selection-end-line="175" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/func.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/test.kt" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/clojure/clojure/1.8.0/clojure-1.8.0.jar!/clojure/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88884">
+          <caret line="4938" column="6" selection-start-line="4938" selection-start-column="6" selection-end-line="4938" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/test.kt" />
+    <entry file="file://$PROJECT_DIR$/src/test/func.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/clojure/clojure/1.8.0/clojure-1.8.0.jar!/clojure/set.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="175" column="0" selection-start-line="175" selection-start-column="0" selection-end-line="175" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/clojure/clojure/1.8.0/clojure-1.8.0.jar!/clojure/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39042">
+          <caret line="2169" column="6" selection-start-line="2169" selection-start-column="6" selection-end-line="2169" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="854" column="0" selection-start-line="854" selection-start-column="0" selection-end-line="854" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>IDE SDK</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>test</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Leiningen: clojure-complete:0.2.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
